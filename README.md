@@ -1,4 +1,4 @@
-# CODE REFRACTOR - HORISEON
+# CODE REFRACTOR - HORISEON -BEING Repurposed into Rennisance by Diana's website.
 Refraction of Non semantic tags to semantic tags without affecting front end of HORISEON landing page.
 
 # Description
