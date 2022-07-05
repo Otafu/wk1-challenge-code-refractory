@@ -97,7 +97,8 @@ p {
     font-size: 36px;
 }
 
-/* Benefits classes in these <articles> were consolidated and brought futher down to emulate the hierchy of the HTML more accurately */
+/* Benefits classes in these <articles> were consolidated and brought futher down to emulate the hierchy of the HTML more accurately.
+In this case offers other features of the business */
 .benefits {
     margin-right: 20px;
     padding: 20px;
